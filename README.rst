@@ -23,11 +23,13 @@ pixel tracking:
 
 - ROI_PAC
 - python
-- matlab
 - perl
 - gdal
 - GMT
+- matlab*
+- gnu parallel*
 
+*Optional
 Currently all provided scripts, which connect each step, are written in bash.
 
 Folder Structure
