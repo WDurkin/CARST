@@ -30,6 +30,7 @@ pixel tracking:
 - gnu parallel*
 
 *Optional
+
 Currently all provided scripts, which connect each step, are written in bash.
 
 Folder Structure
