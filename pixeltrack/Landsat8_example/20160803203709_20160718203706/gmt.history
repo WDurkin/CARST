@@ -1,0 +1,4 @@
+# GMT 5 Session common arguments shelf
+BEGIN GMT 5.1.1
+R	20160803203709_20160718203706_r32x32_s32x32_northxyz.grd
+END
